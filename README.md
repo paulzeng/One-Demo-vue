@@ -1,6 +1,6 @@
 # One/一个
 
-> A simpl Vue.js project/一个简单的One/一个纯前端移动端单页应用
+> A simpl Vue.js project/ 一个简单的 One/ 一个纯前端移动端单页应用
 
 ## Build Setup
 
