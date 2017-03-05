@@ -2,6 +2,8 @@
 
 > A simpl Vue.js project/ 一个简单的 One/ 一个纯前端移动端单页应用
 
+##在线浏览地址(请使用手机端浏览或切换到手机预览模式):http://www.pxxxxx.cn/#/index
+
 ## Build Setup
 
 ``` bash
